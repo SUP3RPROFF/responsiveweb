@@ -120,7 +120,7 @@ footer{
 }
 
 
-@media screen and (max-width: 375px) {
+@media screen and (max-width: 600px) {
     body{
         background-image: url("/images/bg-hero-desktop.svg");
         text-align: center;
